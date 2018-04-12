@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="update">刷新</string>
+    <string name="reate_list">汇率助手</string>
+</resources>
